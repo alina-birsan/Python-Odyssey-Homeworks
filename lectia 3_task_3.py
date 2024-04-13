@@ -40,7 +40,7 @@ print(number//number3)
 # Creează o nouă variabilă numită `number4` și atribuie-i o valoare numerică mare într-un mod literal
 
 # CODUL TĂU VINE MAI JOS:
-number4=int(input())
+number4=1_000_000
 # CODUL TĂU VINE MAI SUS:
 
 # Acum afișează tipul variabilei `number4` folosind funcția `print`
@@ -70,7 +70,7 @@ numar2=2.0
 # Acum creați o variabila `numar_mare` și atribuiți-i o valoare mare utilizând numerele literale
 
 # CODUL TĂU VINE MAI JOS:
-numar_mare=int(input())
+numar_mare=1_000_000_000
 # CODUL TĂU VINE MAI SUS:
 
 # Acum afișați tipul lui `numar_mare` folosind funcția `print`
